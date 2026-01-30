@@ -17,7 +17,7 @@ Complete data-driven performance analysis of a football team's season using Pyth
 ### 🏀 NBA Database Normalization & Analytics
 SQL database design and analytical queries for NBA statistics.
 - **Tech Stack**: SQL, Database Design
-- [View Project]([link](https://github.com/IgnaLS/nba-analytics-database))
+- [View Project](https://github.com/IgnaLS/nba-analytics-database)
 
 ---
 *Currently working as Sports Analytics Intern at CONI for Milano-Cortina 2026 Winter Olympics*
