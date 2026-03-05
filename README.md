@@ -12,7 +12,7 @@ Complete data-driven performance analysis of a football team's season using Pyth
   - Manual event tagging from match videos
   - Tactical analysis (shot maps, pass networks, heatmaps)
   - Data visualization and written insights
-- [View Project](link-to-romulea-folder) | [PDF Report](link-to-pdf)
+- [View Project](https://github.com/IgnaLS/football-analytics-romulea) | [PDF Report](https://github.com/IgnaLS/football-analytics-romulea/blob/main/Report_Romulea.pdf)
 
 ### 🏀 NBA Database Normalization & Analytics
 SQL database design and analytical queries for NBA statistics.
