@@ -19,5 +19,11 @@ SQL database design and analytical queries for NBA statistics.
 - **Tech Stack**: SQL, Database Design
 - [View Project](https://github.com/IgnaLS/nba-analytics-database)
 
+### Titanic: Machine Learning from Disaster (0.78 accuracy)
+Notebook used for my submissions on the Titanic challenge on Kaggle.
+- Features data cleaning, EDA, feature engineering, modelling.
+- Achieved 78% accuracy using a baseline Random Forest.
+- [View Project](https://github.com/IgnaLS/titanic-ml-project)
+
 ---
 *Currently working as Sports Analytics Intern at CONI for Milano-Cortina 2026 Winter Olympics*
